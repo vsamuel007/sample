@@ -7,7 +7,7 @@ public class Arrays {
 
     public static void main(String[] args) {
 
-        System.out.println("printArrayOfNumbers :: ");
+        System.out.println("printArrayOfNumbers ::: ");
         printArrayOfNumbers();
 
         System.out.println("arrayCreation :: ");
