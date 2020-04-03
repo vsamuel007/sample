@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         final String hello_world = "Hello world";
         System.out.println(hello_world);
-        Product product = new Product("box");
+        Product product = new Product("bag");
         System.out.println(product.getName());
     }
 }
